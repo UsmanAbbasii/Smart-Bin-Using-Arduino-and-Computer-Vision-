@@ -1,0 +1,4 @@
+0 Banana
+1 Can
+2 Wrapper
+3 Nothing
