@@ -1,2 +1,2 @@
 # Smart-Bin-Using-Arduino-and-Computer-Vision-
-Computer Vision based Smart Bin
+Computer Vision-based Smart Bin: This innovative waste management solution harnesses the power of computer vision technology to revolutionize recycling. By employing sophisticated algorithms, the smart bin autonomously distinguishes between recyclable and non-recyclable items and drops the waste into the designated portion of the bin using Arduino, making recycling effortless for users. With real-time monitoring features, it alerts when the bin is nearing capacity, ensuring timely emptying.
